@@ -9,7 +9,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Skeleton 1</strong>
+				<strong class="text-xl uppercase">Skeleton 1220</strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
